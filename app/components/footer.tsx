@@ -12,14 +12,14 @@ export default function Footer() {
           <p className="font-mono text-[#D2D2D4] leading-relaxed">
             Explore how my site was made {" "}
             <a
-              href="https://github.com/snowypy/portfolio"
+              href="https://github.com/clarkpy/portfolio"
               className="underline underline-offset-4 text-[#DCB8B0] hover:text-[#D2D2D4] transition-colors font-mono text-sm"
             >
               here
             </a>
             . Created by{" "}
             <a
-              href="https://github.com/snowypy"
+              href="https://github.com/clarkpy"
               className="underline underline-offset-4 text-[#DCB8B0] hover:text-[#D2D2D4] transition-colors font-mono text-sm"
             >
               Snowy

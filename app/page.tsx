@@ -18,7 +18,7 @@ const projects = [
     description: "A simple task manager built with JavaScript and CSS.",
     image: taskify,
     tags: ["Javascript", "CSS", "HTML", "Docker"],
-    sourceUrl: "https://github.com/snowypy/taskify",
+    sourceUrl: "https://github.com/clarkpy/taskify",
     visitUrl: "https://taskify.snowyjs.lol"
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description: "A complex and reactive study system for students",
     image: superstudy,
     tags: ["React", "TailwindCSS", "Kotlin"],
-    sourceUrl: "https://github.com/snowypy/SuperStudy",
+    sourceUrl: "https://github.com/clarkpy/SuperStudy",
     visitUrl: "https://superstudy.snowy.codes"
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description: "A advanced and reliable Jitpack alternative",
     image: artifacts,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/ByteStore-Frontend",
+    sourceUrl: "https://github.com/clarkpy/ByteStore-Frontend",
     visitUrl: "https://bytestore.snowy.codes"
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     description: "The source code for this portfolio website",
     image: portfolio,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/portfolio",
+    sourceUrl: "https://github.com/clarkpy/portfolio",
     visitUrl: "#"
   }
 ]
@@ -118,7 +118,7 @@ export default function Home() {
               </Link>
               <Link
                 className="text-[#DCB8B0] hover:text-[#D2D2D4] transition-colors flex items-center space-x-2"
-                href="https://github.com/snowypy"
+                href="https://github.com/clarkpy"
               >
                 <Github className="h-4 w-4" />
                 <span>@snowypy</span>

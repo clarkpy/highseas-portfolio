@@ -22,7 +22,7 @@ const projects = [
     description: "A simple task manager built with JavaScript and CSS.",
     image: taskify,
     tags: ["Javascript", "CSS", "HTML", "Docker"],
-    sourceUrl: "https://github.com/snowypy/taskify",
+    sourceUrl: "https://github.com/clarkpy/taskify",
     visitUrl: "https://taskify.snowyjs.lol"
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     description: "A complex and reactive study system for students",
     image: superstudy,
     tags: ["React", "TailwindCSS", "Kotlin"],
-    sourceUrl: "https://github.com/snowypy/SuperStudy",
+    sourceUrl: "https://github.com/clarkpy/SuperStudy",
     visitUrl: "https://superstudy.snowy.codes"
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     description: "An advanced and reliable Jitpack alternative",
     image: artifacts,
     tags: ["React", "NextJS", "TypeScript", "Kotlin"],
-    sourceUrl: "https://github.com/snowypy/artifacts",
+    sourceUrl: "https://github.com/clarkpy/artifacts",
     visitUrl: "https://artifacts.akrylic.org"
   },
   {
@@ -46,7 +46,7 @@ const projects = [
     description: "The source code for this portfolio website",
     image: portfolio,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/portfolio",
+    sourceUrl: "https://github.com/clarkpy/portfolio",
     visitUrl: "#"
   },
   {
@@ -54,7 +54,7 @@ const projects = [
     description: "A weather app that uses the free Weather API",
     image: weathero,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/Weathero",
+    sourceUrl: "https://github.com/clarkpy/Weathero",
     visitUrl: "https://weathero.snowy.codes"
   },
   {
@@ -62,7 +62,7 @@ const projects = [
     description: "A mood tracking app that I used to learn about ShadCN graphs",
     image: moody,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/Moody",
+    sourceUrl: "https://github.com/clarkpy/Moody",
     visitUrl: "https://moody.snowy.codes"
   },
   {
@@ -70,7 +70,7 @@ const projects = [
     description: "A landing page template for your next project",
     image: landing,
     tags: ["React", "NextJS", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/landing",
+    sourceUrl: "https://github.com/clarkpy/landing",
     visitUrl: "https://vandal.snowy.codes"
   },
   {
@@ -78,7 +78,7 @@ const projects = [
     description: "A simple and secure way to managet tasks via the command line",
     image: tors,
     tags: ["Rust", "Javascript", "TypeScript"],
-    sourceUrl: "https://github.com/snowypy/Tors-CLI",
+    sourceUrl: "https://github.com/clarkpy/Tors-CLI",
     visitUrl: "https://tors.snowy.codes"
   }
 ]
