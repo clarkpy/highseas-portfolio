@@ -25,4 +25,4 @@ WhoAmI Page
 
 ## Author
 
-Made by Cigan.
+Made by yours truly.
