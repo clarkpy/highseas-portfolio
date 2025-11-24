@@ -28,7 +28,7 @@ export default function GitHubPage() {
   useEffect(() => {
     const fetchRepos = async () => {
       try {
-        const response = await fetch('https://api.github.com/users/snowypy/repos')
+        const response = await fetch('https://api.github.com/users/clarkpy/repos')
         const data = await response.json()
         setRepos(data)
       } catch (error) {
